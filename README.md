@@ -1,2 +1,5 @@
 # numberguessing
-Guess Number with Python
+Play Guessing Number Game with Python
+```
+python guessing.py
+```
